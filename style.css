@@ -47,6 +47,11 @@ a{
     text-align: center;
 }
 
+.content-Image img{
+    width: 600px;
+    height: 300px;
+}
+
 .callout{
     border-left: 3px solid #ccc;
     padding: 0 0 0 20px;
