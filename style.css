@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family:"Times New Roman", Times, serif;
+}
+
+a{
+    color: bisque;
+}
+
+.page-title{
+    text-align: center;
+    font-family:"Times New Roman", Times, serif;
+    
+}
+
+.header-wrap, .footer-top-wrap{
+    background-color: brown;
+    color: #fff;
+}
+
+.header-wrap p{
+    margin: 0;
+}
+
+.header, .content , .footer-top{
+    padding: 10px 0;
+    max-width: 978px;
+    margin: 0 auto;
+}
+
+.web-details{
+    border: 1px solid #fff;
+    padding: 20px;
+}
+
+.content-wrap{
+    background: #fff;
+    color: #000;
+}
+
+.content-Image{
+    text-align: center;
+}
+
+.callout{
+    border-left: 3px solid #ccc;
+    padding: 0 0 0 20px;
+}
+
+.footer-top h4{
+    
+}
